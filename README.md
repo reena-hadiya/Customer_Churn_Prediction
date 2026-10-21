@@ -21,3 +21,10 @@ This project predicts whether a customer is likely to leave a service using Mach
 3. Open the local URL shown in the terminal.
 
 **Goal:** Help businesses identify customers at risk of leaving and improve customer retention.
+
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
