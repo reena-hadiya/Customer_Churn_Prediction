@@ -2,6 +2,7 @@
 
 This project predicts whether a customer is likely to leave a service using Machine Learning.
 
+Deployment URL :  https://customer-churn-prediction-dh6t.onrender.com
 ### Features
 
 * Customer churn prediction using a trained ML model.

@@ -7,8 +7,8 @@ app = Flask(__name__)
 
 # Project folders
 BASE_DIR = Path(__file__).resolve().parent.parent
-MODEL_PATH = BASE_DIR / "models" / "churn_pipeline.pkl"
-FRONTEND_DIR = BASE_DIR / "frontend"
+MODEL_PATH = BASE_DIR / "MODELS" / "churn_pipeline.pkl"
+FRONTEND_DIR = BASE_DIR / "FRONTEND"
 
 # Load saved model pipeline
 try:
